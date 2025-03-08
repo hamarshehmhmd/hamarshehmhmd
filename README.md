@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Hamarsheh!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+Enthusiast;Problem+Solver;Student" alt="Typing SVG">
 
 
 ## 🚀 About Me
