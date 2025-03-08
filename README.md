@@ -13,7 +13,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
 
 ### Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,nodejs,tailwindcss" alt="Frameworks & Libraries" /> </p>  
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,nodejs,tailwindcss,django" alt="Frameworks & Libraries" /> </p>  
 
 ### Databases & Cloud
 
