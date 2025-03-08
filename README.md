@@ -13,14 +13,14 @@ I'm a passionate developer with experience in building scalable web and mobile a
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" alt="Programming Languages" /> </p>
 
 ### Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tailwindcss,bootstrap" alt="Frameworks & Libraries" /> </p>  
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,nodejs,tailwindcss" alt="Frameworks & Libraries" /> </p>  
 
 ### Databases & Cloud
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,gcp,aws" alt="Databases & Cloud" /> </p>  
 
 ### Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" alt="Tools & DevOps" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux" alt="Tools & DevOps" /> </p>
 
 ## 🔭 Current Projects
 
