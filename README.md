@@ -20,7 +20,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 <p align="left"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,gcp,aws" alt="Databases & Cloud" /> </p>  
 
 ### Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux" alt="Tools & DevOps" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,figma" alt="Tools & DevOps" /> </p>
 
 ## 🔭 Current Projects
 
