@@ -23,10 +23,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,figma" alt="Tools & DevOps" /> </p>
 
 ## 🔭 Current Projects
-
-- Building a Flutter application for SKLR
-- Developing a web platform using Flutter SupaBase
-
+-Building an amazing thing
 ## 🌱 I'm Currently Learning
 
 - Computer Vision & Image Visualization 
