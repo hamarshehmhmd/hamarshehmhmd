@@ -24,11 +24,7 @@ I'm a passionate developer with experience in building scalable web and mobile a
 
 ## 🔭 Current Projects
 -Building an amazing thing
-## 🌱 I'm Currently Learning
 
-- Computer Vision & Image Visualization 
-- Machine Learning fundamentals
-- GCP
 
 ## 📊 GitHub Stats
 
