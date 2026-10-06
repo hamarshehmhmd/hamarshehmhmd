@@ -1,0 +1,6 @@
+# only needed locally when you (re)generate the ASCII portrait
+-r requirements.txt
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
