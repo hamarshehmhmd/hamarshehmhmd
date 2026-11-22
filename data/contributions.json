@@ -1,16 +1,16 @@
 {
  "username": "hamarshehmhmd",
- "generated": "2026-11-21",
- "total": 2382,
- "active_days": 315,
- "current_streak": 76,
- "longest_streak": 76,
+ "generated": "2026-11-22",
+ "total": 2377,
+ "active_days": 310,
+ "current_streak": 77,
+ "longest_streak": 77,
  "best_day": {
   "date": "2026-11-14",
   "count": 54
  },
  "monthly": {
-  "2025-11": 18,
+  "2025-11": 6,
   "2025-12": 83,
   "2026-01": 73,
   "2026-02": 134,
@@ -22,44 +22,9 @@
   "2026-08": 73,
   "2026-09": 216,
   "2026-10": 271,
-  "2026-11": 559
+  "2026-11": 566
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-17",
-   "level": 1,
-   "count": 2
-  },
-  {
-   "date": "2025-11-18",
-   "level": 1,
-   "count": 1
-  },
-  {
-   "date": "2025-11-19",
-   "level": 1,
-   "count": 2
-  },
-  {
-   "date": "2025-11-20",
-   "level": 1,
-   "count": 5
-  },
-  {
-   "date": "2025-11-21",
-   "level": 1,
-   "count": 1
-  },
-  {
-   "date": "2025-11-22",
-   "level": 1,
-   "count": 1
-  },
   {
    "date": "2025-11-23",
    "level": 1,
@@ -1878,7 +1843,12 @@
   {
    "date": "2026-11-21",
    "level": 1,
-   "count": 9
+   "count": 10
+  },
+  {
+   "date": "2026-11-22",
+   "level": 1,
+   "count": 6
   }
  ]
 }
